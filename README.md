@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Raviteja-Kaparapu
 - 👀 I’m interested in Exploring the data
-- 🌱 I’m currently learning GCP 
 - 💞️ I’m looking to collaborate on data migration to Cloud Platforms
 - 📫 reach me by raviteja.kaparapu@yahoo.com
 
